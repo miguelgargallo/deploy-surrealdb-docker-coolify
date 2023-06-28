@@ -121,10 +121,9 @@ services:
     command: 
       - start
       - --log=trace
+      - --user=root
+      - --pass=root
       - tikv://pd0:2379
-    environment:
-      - USER=${SURREALDB_USER}
-      - PASS=${SURREALDB_PASS}
     depends_on:
       - tikv0
       - tikv1
