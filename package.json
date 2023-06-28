@@ -1,0 +1,11 @@
+{
+  "name": "miguelgargallo.surrealdb.docker",
+  "version": "1.0.0",
+  "description": "SurrealDB Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Gargallo",
+  "private": true
+}
