@@ -114,17 +114,13 @@ services:
     restart: on-failure
 
   surrealdb:
-    image: surrealdb/surrealdb:latest
+    build: .
     container_name: surrealdb
-    user: "${UID}:${GID}"
     ports:
       - "8000:8000"
     environment:
       - SURREALDB_USER=${SURREALDB_USER}
       - SURREALDB_PASS=${SURREALDB_PASS}
-    entrypoint: /app/entrypoint.sh
-    volumes:
-      - ./entrypoint.sh:/app/entrypoint.sh
     depends_on:
       - tikv0
       - tikv1
