@@ -116,6 +116,7 @@ services:
   surrealdb:
     image: surrealdb/surrealdb:latest
     container_name: surrealdb
+    user: "${UID}:${GID}"
     ports:
       - "8000:8000"
     environment:
