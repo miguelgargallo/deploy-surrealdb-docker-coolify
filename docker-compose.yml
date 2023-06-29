@@ -114,13 +114,16 @@ services:
     restart: on-failure
 
   surrealdb:
-    build: .
+    image: surrealdb/surrealdb:latest
     container_name: surrealdb
     ports:
       - "8000:8000"
-    environment:
-      - SURREALDB_USER=${SURREALDB_USER}
-      - SURREALDB_PASS=${SURREALDB_PASS}
+    command: 
+      - start
+      - --log=trace
+      - --user=root
+      - --pass=root
+      - tikv://pd0:2379
     depends_on:
       - tikv0
       - tikv1
