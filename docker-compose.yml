@@ -118,6 +118,9 @@ services:
     container_name: surrealdb
     ports:
       - "8000:8000"
+    environment:
+      - SURREALDB_USER=${SURREALDB_USER}
+      - SURREALDB_PASS=${SURREALDB_PASS}
     command: 
       - start
       - --log=trace
