@@ -121,12 +121,9 @@ services:
     environment:
       - SURREALDB_USER=${SURREALDB_USER}
       - SURREALDB_PASS=${SURREALDB_PASS}
-    command: 
-      - start
-      - --log=trace
-      - --user=${SURREALDB_USER}
-      - --pass=${SURREALDB_PASS}
-      - tikv://pd0:2379
+    entrypoint: /app/entrypoint.sh
+    volumes:
+      - ./entrypoint.sh:/app/entrypoint.sh
     depends_on:
       - tikv0
       - tikv1
