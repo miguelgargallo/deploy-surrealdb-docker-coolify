@@ -11,7 +11,7 @@
 <h1 align="center">
     <a>Deploy SurrealDB on Docker <a href="https://github.com/miguelgargallo/surrealdb-docker" target="_blank">
         <img src="/img/light/text.svg" height="15" alt="SurrealDB">
-    </a> anywhere + [Coolify support](https://coolify.io/)  </h1>
+    </a> anywhere + Coolify support</h1>
     <h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>
     <br>
 
