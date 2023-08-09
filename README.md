@@ -4,8 +4,9 @@
         <img width="300" src="/img/light/logo.svg" alt="SurrealDB Logo">
     </a>
     <p align="center">
-    Guide written by Miguel Gargallo
-    </p>
+    <p align="center">
+    Guide written by Miguel Gargallo and <a href="https://itamaesan.org" target="_blank"> ITANAESAB ORG </a> supports this project, a free open source code foundation.
+    </p>    </p>
 </p>
 <br>
 <h1 align="center">
