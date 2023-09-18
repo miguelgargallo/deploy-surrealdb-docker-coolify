@@ -10,7 +10,7 @@
 <br>
 <h1 align="center">
     <a>Deploy SurrealDB on Docker <a href="https://github.com/miguelgargallo/surrealdb-docker" target="_blank">
-        <img href="https://github.com/miguelgargallo/deploy-surrealdb-docker-coolify/blob/cb7c9f6f65552da95cf376998754241a0188e45c/img/light/text.svg" height="15" alt="SurrealDB">
+        <img src="https://github.com/miguelgargallo/deploy-surrealdb-docker-coolify/blob/2d312adb6d966d68766f8d26c37bcf82349e0e82/img/light/text.svg" height="15" alt="SurrealDB">
     </a> anywhere + Coolify support</h1>
     <h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>
     <br>
