@@ -4,7 +4,7 @@
         <img width="120" alt="SurrealDB Image" src="https://github.com/miguelgargallo/deploy-surrealdb-docker-coolify/blob/2d312adb6d966d68766f8d26c37bcf82349e0e82/img/light/logo.svg">
     </a>
     <p align="center">
-    Guide written by <a href="https://miguelgargallo.com" target="_blank">Miguel Gargallo </a> and <a href="https://itamaesan.org" target="_blank"> ITANAESAB ORG </a> supports this project, a free open source code foundation.
+    Guide written by <a src="https://miguelgargallo.com" target="_blank">Miguel Gargallo </a> and <a href="https://itamaesan.org" target="_blank"> ITANAESAB ORG </a> supports this project, a free open source code foundation.
     </p> 
 </p>
 <br>
