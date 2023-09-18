@@ -10,7 +10,7 @@
 <br>
 <h1 align="center">
     <a>Deploy SurrealDB on Docker <a href="https://github.com/miguelgargallo/surrealdb-docker" target="_blank">
-        <img src="/img/light/text.svg" height="15" alt="SurrealDB">
+        <img href="https://github.com/miguelgargallo/deploy-surrealdb-docker-coolify/blob/cb7c9f6f65552da95cf376998754241a0188e45c/img/light/text.svg" height="15" alt="SurrealDB">
     </a> anywhere + Coolify support</h1>
     <h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>
     <br>
@@ -21,7 +21,7 @@
 git clone https://github.com/miguelgargallo/surrealdb-docker
 ```
 
-<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;add .env variables</h2>
+<h2><img height="20" href="https://github.com/miguelgargallo/deploy-surrealdb-docker-coolify/blob/cb7c9f6f65552da95cf376998754241a0188e45c/img/whatissurreal.svg">&nbsp;&nbsp;add .env variables</h2>
 
 ```powershell
 cd surrealdb-docker
@@ -36,7 +36,7 @@ SURREALDB_USER=root
 SURREALDB_PASS=useAlongerPa$$word
 ```
 
-<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;Enjoy it</h2>
+<h2><img height="20" href="https://github.com/miguelgargallo/deploy-surrealdb-docker-coolify/blob/cb7c9f6f65552da95cf376998754241a0188e45c/img/whatissurreal.svg">&nbsp;&nbsp;Enjoy it</h2>
 
 ```powershell
 docker-compose up -d
