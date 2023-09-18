@@ -1,7 +1,7 @@
 <br>
 <p align="center">
     <a href="https://github.com/miguelgargallo/surrealdb-docker" target="_blank">
-        <img width="300" src="/img/light/logo.svg" alt="SurrealDB Logo">
+        <img width="1024" alt="SurrealDB Image" src="https://github.com/miguelgargallo/deploy-surrealdb-docker-coolify/assets/5947268/a8ce306d-352d-4c50-955e-a02fed417c4a">
     </a>
     <p align="center">
     Guide written by <a href="https://miguelgargallo.com" target="_blank">Miguel Gargallo </a> and <a href="https://itamaesan.org" target="_blank"> ITANAESAB ORG </a> supports this project, a free open source code foundation.
