@@ -6,6 +6,7 @@
     <p align="center">
     Guide written by <a src="https://miguelgargallo.com" target="_blank">Miguel Gargallo </a> and <a href="https://itamaesan.org" target="_blank"> ITANAESAB ORG </a> supports this project, a free open source code foundation.
     </p> 
+    https://raw.githubusercontent.com/miguelgargallo/deploy-surrealdb-docker-coolify/071f58abb5e7f0d246faa96e156ac674de25cc95/img/light/text.svg
 </p>
 <br>
 <h1 align="center">
