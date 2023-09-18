@@ -15,7 +15,7 @@
     <h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>
     <br>
 
-<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;Deploy it</h2>
+<h2><img height="20" href="https://github.com/miguelgargallo/deploy-surrealdb-docker-coolify/blob/cb7c9f6f65552da95cf376998754241a0188e45c/img/whatissurreal.svg">&nbsp;&nbsp;Deploy it</h2>
 
 ```powershell
 git clone https://github.com/miguelgargallo/surrealdb-docker
