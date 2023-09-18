@@ -6,12 +6,11 @@
     <p align="center">
     Guide written by <a src="https://miguelgargallo.com" target="_blank">Miguel Gargallo </a> and <a href="https://itamaesan.org" target="_blank"> ITANAESAB ORG </a> supports this project, a free open source code foundation.
     </p> 
-    https://raw.githubusercontent.com/miguelgargallo/deploy-surrealdb-docker-coolify/071f58abb5e7f0d246faa96e156ac674de25cc95/img/light/text.svg
 </p>
 <br>
 <h1 align="center">
     <a>Deploy SurrealDB on Docker <a href="https://github.com/miguelgargallo/surrealdb-docker" target="_blank">
-        <img href="https://raw.githubusercontent.com/miguelgargallo/deploy-surrealdb-docker-coolify/071f58abb5e7f0d246faa96e156ac674de25cc95/img/light/text.svg" height="15" alt="SurrealDB">
+         <img width="120" href="https://raw.githubusercontent.com/miguelgargallo/deploy-surrealdb-docker-coolify/071f58abb5e7f0d246faa96e156ac674de25cc95/img/light/text.svg" height="15" alt="SurrealDB">
     </a> anywhere + Coolify support</h1>
     <h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>
     <br>
